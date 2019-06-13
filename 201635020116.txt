@@ -1,0 +1,12 @@
+// lwh_c.cpp : Defines the entry point for the console application.
+//
+
+#include "stdafx.h"
+
+int main(int argc, char* argv[])
+{
+	while(1)
+	printf("201635020116ю╣нд╨ю\n");
+	return 0;
+}
+
